@@ -1,4 +1,4 @@
-# -Implementando-Valida-es-de-Testes-Unit-rios-com-C-
+Implementando Validações de Testes Unitários com C#
 # DIO - Trilha .NET - Testes Unitários com C#
 www.dio.me
 
